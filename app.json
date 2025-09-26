@@ -1,16 +1,17 @@
 {
   "expo": {
-    "name": "quiz-app",
-    "slug": "quiz-app",
+    "name": "Trivia Quiz App",
+    "slug": "trivia-quiz-app",
+    "scheme": "triviaquizapp",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
-    "userInterfaceStyle": "light",
+    "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "splash": {
       "image": "./assets/splash-icon.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#0f172a"
     },
     "ios": {
       "supportsTablet": true

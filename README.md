@@ -5,11 +5,11 @@ Modern ve kullanıcı dostu bir React Native quiz uygulaması. Farklı kategoril
 ## ✨ Özellikler
 
 - 🎯 **4 Farklı Kategori**: Genel Kültür, Tarih, Oyun ve Spor
-- 🔀 **Rastgele Soru Sıralaması**: Her oyunda farklı deneyim
 - 🎨 **Modern UI/UX**: Gradient arka planlar ve görsel tasarım
 - 📱 **Cross-Platform**: iOS ve Android desteği
 - ⚡ **Hızlı ve Responsive**: Smooth animasyonlar
 - 🔄 **Tekrar Oynama**: Quiz'i istediğiniz kadar tekrarlayın
+- 🔀 **Dinamik Soru Sıralaması**: Her oyunda farklı deneyim
 
 ## 🚀 Kurulum
 
@@ -73,10 +73,6 @@ trivia-quiz-app/
 - **Expo Linear Gradient**: Gradient arka planlar
 - **Supabase**: Backend veritabanı
 
-## 📱 Ekran Görüntüleri
-
-*Ekran görüntüleri eklenecek*
-
 ## 🤝 Katkıda Bulunma
 
 1. Fork yapın
@@ -85,19 +81,9 @@ trivia-quiz-app/
 4. Push yapın (`git push origin feature/amazing-feature`)
 5. Pull Request oluşturun
 
-## 📄 Lisans
-
-Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için `LICENSE` dosyasına bakın.
-
 ## 👨‍💻 Geliştirici
 
-**Ahmet** - [GitHub](https://github.com/kullaniciadi)
-
-## 🙏 Teşekkürler
-
-- Expo ekibine harika platform için
-- React Native topluluğuna
-- Tüm katkıda bulunanlara
+**Ahmet Yasin Altun** - [GitHub](https://github.com/ahmetyasinaltun)
 
 ---
 
